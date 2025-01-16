@@ -1,0 +1,17 @@
+streamlit
+rasterio
+geopandas
+numpy
+matplotlib
+plotnine
+folium
+streamlit-folium
+scikit-image
+scipy
+xarray
+netCDF4
+h5netcdf
+zarr
+cftime
+pandas
+packaging
